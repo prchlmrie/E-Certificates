@@ -10,7 +10,7 @@ Below are the e-certificates I earned from webinars, reflecting my curiosity and
 
 | Webinar Title | Organizer | Date | Skills Gained |
 |---------------|-----------|------|---------------|
-| From Ground to Cloud: An Introduction to Cloud Computing Concepts | [Provider, e.g., Google or Event Organizer] | Nov 2023 | Cloud infrastructure for AI/ML deployment | 
+| From Ground to Cloud: An Introduction to Cloud Computing Concepts | Batangas State University | Nov 2023 | Cloud infrastructure for AI/ML deployment | 
 | Free Coding Bootcamp: Basic Web Development Workshop | Google Developer Student Club - Bicol University | Nov 2023 | HTML/CSS for data visualization interfaces | 
 | Understanding Blockchain Technology: Core Principles and Real-World Applications | CICT | Nov 2023 | Blockchain applications in decentralized AI | 
 | MS Excel Essentials: A Comprehensive Masterclass | Athena Global Education | Dec 2023 | Data preprocessing for data science |
