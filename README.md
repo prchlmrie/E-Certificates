@@ -18,3 +18,7 @@ Below are the e-certificates I earned from webinars, reflecting my curiosity and
 
 ## Why These Webinars?
 These webinars reflect my curiosity about technologies shaping the future. From cloud computing’s role in scaling ML models to blockchain’s potential in decentralized AI, I’m exploring diverse tools to complement my core skills in Python and data science (check my CS50 and Cisco certs on LinkedIn!).
+
+## Repository Structure
+- `/certificates/`: Folder containing certificate PDFs/images.
+- `/README.md`: This file, detailing the collection.
